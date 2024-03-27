@@ -1,0 +1,17 @@
+1.find the max number from the list[23,25,17,97,43]
+2.find the min value from the (34,23,63,12)
+3.Take a number from the user and find whether it is even number or odd number
+4. There are 5 students in a class(John,Peter,Hary,Davik,Stephen).
+Write a program to find whether "Johny" is present in a class or not
+5.write a program to check whether two list are in same memory location or not
+eg: L1=["hello", 56, 98.7]
+      L2=["hello", 56, 98.7]
+6. Create a single string containing 5 copies of the string 'Hello'. 
+7. take two input from the user and create a string from the input
+eg: x=28
+      y=78
+      output:2878
+8.Use the multiplication operator to create a "line" of 50 dollar.  
+9.By using the assignment operator ,add 100 to a number which is entered by the user .
+10.what will be the floor value of 102.34
+		
